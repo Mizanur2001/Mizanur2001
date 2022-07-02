@@ -30,10 +30,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mizanur35358853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mizanur35358853" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mizanur2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mizanur2001" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18260405/mizanur2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mizanur2001" height="30" width="40" /></a>
 <a href="https://fb.com/jameslev2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jameslev2001" height="30" width="40" /></a>
 <a href="https://instagram.com/jameslev2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jameslev2001" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mizanur rahaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mizanur rahaman" height="30" width="40" /></a>
+<a href="https://https://www.youtube.com/channel/UCWSM2zTGH9P5seC6jT3T_vA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mizanur rahaman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
