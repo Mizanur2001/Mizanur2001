@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **MERN , PHP , JavaScript**
 
-- 📫 How to reach me **[Social Network](http://mizanur.in/)**
+- 📫 How to reach me **[Mizanur.in](http://mizanur.in/)**
 
 - ⚡ Fun fact **I think 🤔 I am funny 😁**
 <br>
