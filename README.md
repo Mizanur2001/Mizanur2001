@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **MERN , PHP , JavaScript**
 
-- 📫 How to reach me **jameslev2001@gmail.com**
+- 📫 How to reach me **mizanur.in**
 
 - ⚡ Fun fact **I think 🤔 I am funny 😁**
 <br>
