@@ -14,13 +14,13 @@
 
 <img align="right" alt="Coding" width="300" height="200" src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-- 🔭 I’m currently working on [Social Network](http://139.59.37.218:9000/)
+- 🔭 I’m currently working on [Social Network](http://sn.mizanur.in/)
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
 - 💬 Ask me about **MERN , PHP , JavaScript**
 
-- 📫 How to reach me **mizanur.in**
+- 📫 How to reach me **[Social Network](http://mizanur.in/)**
 
 - ⚡ Fun fact **I think 🤔 I am funny 😁**
 <br>
