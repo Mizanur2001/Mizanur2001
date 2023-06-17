@@ -10,7 +10,7 @@
 
 <hr>
 
-## I'm a Student,  Developer, and BTS ARMY <img src="https://img.icons8.com/nolan/23/bts.png"/>!!
+## I'm a Student,  Developer, and EDM Lover !!
 
 <img align="right" alt="Coding" width="300" height="200" src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif">
 
