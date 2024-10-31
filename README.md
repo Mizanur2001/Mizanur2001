@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizanur2001&label=Profile%20views&color=0e75b6&style=flat" alt="mizanur2001" /> </p>
-<img src="https://img.shields.io/badge/Age-22-blue" />
+<img src="https://img.shields.io/badge/Age-23-blue" />
 <img src="https://img.shields.io/badge/Languages-English_Bengali_Hindi-brightgreen" />
 
 <p align="left"> <a href="https://twitter.com/mizanur35358853" target="blank"><img src="https://img.shields.io/twitter/follow/mizanur35358853?logo=twitter&style=for-the-badge" alt="mizanur35358853" /></a> </p>
