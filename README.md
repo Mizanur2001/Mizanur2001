@@ -1,9 +1,9 @@
 ![MasterHead](https://www.reachfirst.com/wp-content/uploads/2018/08/Web-Development.jpg)
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mizanur Rahaman</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">, I'm Mizanur Rahaman</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizanur2001&label=Profile%20views&color=0e75b6&style=flat" alt="mizanur2001" /> </p>
-<img src="https://img.shields.io/badge/Age-21-blue" />
+<img src="https://img.shields.io/badge/Age-24-blue" />
 <img src="https://img.shields.io/badge/Languages-English_Bengali_Hindi-brightgreen" />
 
 <p align="left"> <a href="https://twitter.com/mizanur35358853" target="blank"><img src="https://img.shields.io/twitter/follow/mizanur35358853?logo=twitter&style=for-the-badge" alt="mizanur35358853" /></a> </p>
@@ -11,16 +11,15 @@
 <hr>
 
 ## I'm a Student,  Developer, and BTS ARMY <img src="https://img.icons8.com/nolan/23/bts.png"/>!!
-
+<!-- holla -->
 <img align="right" alt="Coding" width="300" height="175" src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif">
-
 - 🔭 I’m currently working on [Social Network](https://github.com/Mizanur2001/SocialNetwork)
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
 - 💬 Ask me about **MERN , PHP , JavaScript**
 
-- 📫 How to reach me **jameslev2001@gmail.com**
+- 📫 How to reach me **[Mizanur.in](http://mizanur.in/)**
 
 - ⚡ Fun fact **I think 🤔 I am funny 😁**
 <br>
@@ -30,10 +29,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mizanur35358853" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mizanur35358853" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mizanur2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mizanur2001" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18260405/mizanur2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mizanur2001" height="30" width="40" /></a>
 <a href="https://fb.com/jameslev2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jameslev2001" height="30" width="40" /></a>
 <a href="https://instagram.com/jameslev2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jameslev2001" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mizanur rahaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mizanur rahaman" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWSM2zTGH9P5seC6jT3T_vA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mizanur rahaman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -44,8 +43,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mizanur2001&show_icons=true&locale=en&layout=compact" alt="mizanur2001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mizanur2001&show_icons=true&locale=en" alt="mizanur2001" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mizanur2001&show_icons=true&locale=en" alt="mizanur2001" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mizanur2001&" alt="mizanur2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizanur2001&" alt="mizanur2001" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mizanur2001" alt="mizanur2001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mizanur2001" alt="mizanur2001" /></a> </p>
