@@ -10,10 +10,11 @@
 
 <hr>
 
-## I'm a Student,  Developer, and BTS ARMY <img src="https://img.icons8.com/nolan/23/bts.png"/>!!
-<!-- holla -->
-<img align="right" alt="Coding" width="300" height="175" src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif">
-- 🔭 I’m currently working on [Social Network](https://github.com/Mizanur2001/SocialNetwork)
+## I'm a Student,  Developer, and EDM Lover !!
+
+<img align="right" alt="Coding" width="300" height="200" src="https://miro.medium.com/max/1785/1*IRGHmiGsa16stedQvIaZfw.gif">
+
+- 🔭 I’m currently working on [Social Network](http://sn.mizanur.in/)
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
@@ -45,6 +46,6 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mizanur2001&show_icons=true&locale=en" alt="mizanur2001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizanur2001&" alt="mizanur2001" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mizanur2001&" alt="mizanur2001" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mizanur2001" alt="mizanur2001.." /></a> </p>
